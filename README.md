@@ -47,6 +47,7 @@
 
 <!-- <h3 align="center">Tech Stacks</h3> -->
 <div style="display: inline_block"><br>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /> </a> -->
   <!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>  &nbsp; -->
   <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>  &nbsp; -->
@@ -101,10 +102,11 @@
   <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> &nbsp; -->
 </div>
 
+<br>
 
   ##
 
-
+<br>
 <!-- CONTACTS -->
 <!-- <h3 align="center">Contact Me 🙃</h3>
 <p align="center">
@@ -123,6 +125,7 @@
   <a href="https://www.linkedin.com/in/alamashfaque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br>
 
   ##
 
@@ -134,3 +137,8 @@
 <!-- https://github.com/rafaballerini -->
 <!-- https://github.com/rafaballerini/PerfilGithub -->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
+<!--- https://www.youtube.com/watch?v=7K8JctEM-Uk -->
+<!-- https://www.youtube.com/watch?v=pOCbKhoVirA -->
+<!-- https://github.com/anmol098/waka-readme-stats -->
+<!-- https://github.com/anmol098/anmol098 -->
