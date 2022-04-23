@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://ashfaquealamresume.netlify.app/](https://ashfaquealamresume.netlify.app/)
 
-- ⚡ Fun fact **I love to learn Arabic.**
+- ⚡ Fun fact **In my leisure time I love to learn Arabic.**
 
 
 
