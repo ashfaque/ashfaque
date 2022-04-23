@@ -7,29 +7,30 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ashfaquealam1508@gmail.com**
+<!-- - 📫 How to reach me **ashfaquealam1508@gmail.com** -->
 
 - 📄 Know about my experiences [https://ashfaquealamresume.netlify.app/](https://ashfaquealamresume.netlify.app/)
 
 - ⚡ Fun fact **I love to learn Arabic.**
 
 
+
   ##
+
 
 
 <!-- STATS -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   <a href="https://github.com/ashfaque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&ensp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaque&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<!-- SNAKE ANIMATION -->
 
 
 
   ##  
+
 
 
 <!-- TECH STACKS -->
@@ -101,10 +102,13 @@
   <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>  &nbsp; -->
   <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> &nbsp; -->
 </div>
-
 <br>
 
+
+
   ##
+
+
 
 <br>
 <!-- CONTACTS -->
@@ -121,15 +125,20 @@
   <!-- <a href="https://instagram.com/USERNAME" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
  	<!-- <a href="https://www.twitch.tv/USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!-- <a href="https://discord.gg/CHANNEL" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:ashfaquealam1508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&ensp;
+  <a href = "mailto:ashfaquealam1508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &ensp;
   <a href="https://www.linkedin.com/in/alamashfaque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
 <br>
+
+
 
   ##
 
-  ![Snake animation](https://github.com/ashfaque/ashfaque/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- SNAKE ANIMATION -->
+![Snake animation](https://github.com/ashfaque/ashfaque/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- Credits:-->
