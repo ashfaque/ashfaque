@@ -126,9 +126,9 @@
 
   ##
 
-<div align="center"> 
   ![Snake animation](https://github.com/ashfaque/ashfaque/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
-<!-- Credits: https://www.youtube.com/watch?v=TsaLQAetPLU -->
+<!-- Credits:-->
+<!-- https://www.youtube.com/watch?v=TsaLQAetPLU -->
+<!-- https://github.com/rafaballerini -->
