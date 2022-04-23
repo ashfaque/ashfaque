@@ -132,3 +132,5 @@
 <!-- Credits:-->
 <!-- https://www.youtube.com/watch?v=TsaLQAetPLU -->
 <!-- https://github.com/rafaballerini -->
+<!-- https://github.com/rafaballerini/PerfilGithub -->
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
