@@ -21,10 +21,15 @@
 
 <!-- STATS -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ashfaque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&ensp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaque&layout=compact&langs_count=7&theme=dracula"/>
+</div> -->
+<div align="center">
+  <a href="https://github.com/ashfaque">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaque&title_color=2185FF&text_color=C9D1D9&icon_color=DD6387&show_icons=true&hide_border=1&bg_color=0D1117&theme=dracula&include_all_commits=true&count_private=true"/>&ensp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaque&&title_color=2185FF&text_color=C9D1D9&icon_color=DD6387&show_icons=true&hide_border=1&bg_color=0D1117&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 
