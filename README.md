@@ -76,7 +76,7 @@
 
 
 <!-- Guy coding gif -->
-<img align="right" alt="GIF" src="https://github.com/ashfaque/ashfaque/blob/main/coding_gifs/code5_cropped_ezgif.com.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ashfaque/ashfaque/blob/main/coding_gifs/code5_cropped_ezgif.com_resized.gif?raw=true" width="500" height="320" />
 
 
 
