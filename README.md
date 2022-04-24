@@ -52,14 +52,6 @@
   <a href="https://github.com/ashfaque">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashfaque&title_color=2185FF&text_color=C9D1D9&icon_color=6CA6FE&show_icons=true&hide_border=1&bg_color=0D1117&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>&ensp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaque&title_color=2185FF&text_color=C9D1D9&icon_color=DD6387&show_icons=true&hide_border=1&bg_color=0D1117&layout=compact&langs_count=10&theme=dracula"/>
-  <!-- Streaks -->
-  <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <!-- Demo: https://github-readme-streak-stats.herokuapp.com/demo/ -->
-  <details align="center">
-    <summary> 🔥 Streaks </summary>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashfaque&theme=github-dark-blue&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="ashfaqueStreaks" /></p>
-  </details>
-  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashfaque&theme=prussianf[OR]algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </div>
 
 
