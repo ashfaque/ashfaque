@@ -25,13 +25,13 @@
 
 - 🌱 I’m currently learning **everything 😜**
 
-- 👨‍💻 All of my projects are available at [ashfaque.co.in](ashfaque.co.in)
+- 👨‍💻 All of my projects are available at [ashfaque.co.in][portfolio]
 
 - 💬 Ask me about **Python**
 
 <!-- - 📫 How to reach me **ashfaquealam1508@gmail.com** -->
 
-- 📄 Know about my experiences [https://ashfaquealamresume.netlify.app/](https://ashfaquealamresume.netlify.app/)
+- 📄 Know about my experiences [https://ashfaquealamresume.netlify.app/][resume]
 
 - ⚡ Fun fact **In my leisure time I love to learn Arabic.**
 
@@ -146,6 +146,13 @@
 
 <!-- SNAKE ANIMATION -->
 ![Snake animation](https://github.com/ashfaque/ashfaque/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<!-- URL variables -->
+[portfolio]: https://www.ashfaque.co.in/
+[resume]: https://ashfaquealamresume.netlify.app/
+
 
 
 <!-- Credits:-->
