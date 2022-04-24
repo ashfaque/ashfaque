@@ -82,7 +82,7 @@
 
 <!-- <h3 align="center">Tech Stacks</h3> -->
 <div style="display: inline_block" align="center">
-  <br><br><br><br>
+  <br><br><br>
   <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /> </a> &nbsp; &nbsp; -->
   <!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>  &nbsp; &nbsp; -->
   <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>  &nbsp; &nbsp; -->
@@ -138,7 +138,7 @@
 </div>
 
 
-<br><br><br>
+<br><br>
 
   ##
 
