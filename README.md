@@ -55,10 +55,13 @@
   <!-- Streaks -->
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <!-- Demo: https://github-readme-streak-stats.herokuapp.com/demo/ -->
-  <details align="center">
-    <summary> 🔥 Streaks </summary>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashfaque&theme=github-dark-blue&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="ashfaqueStreaks" /></p>
-  </details>
+<!--  <details align="center"> -->
+<!--     <summary> 🔥 Streaks </summary> -->
+<!--       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashfaque&theme=github-dark-blue&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="ashfaqueStreaks" /></p> -->
+<!--   </details> -->
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashfaque&theme=github-dark-blue&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="ashfaqueStreaks" />
+    
   <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashfaque&theme=prussianf[OR]algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </div>
 
