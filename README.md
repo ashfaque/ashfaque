@@ -25,13 +25,13 @@
 
 - 🌱 I’m currently learning **everything 😜**
 
-- 👨‍💻 All of my projects are available at [ashfaque.co.in][portfolio]
+<!-- - 👨‍💻 All of my projects are available at [ashfaque.co.in][portfolio] -->
 
 - 💬 Ask me about **Python**
 
 <!-- - 📫 How to reach me **ashfaquealam1508@gmail.com** -->
 
-- 📄 Know about my experiences [https://ashfaquealamresume.netlify.app/][resume]
+<!-- - 📄 Know about my experiences [https://ashfaquealamresume.netlify.app/][resume] -->
 
 - ⚡ Fun fact **In my leisure time I love to learn Arabic.**
 
