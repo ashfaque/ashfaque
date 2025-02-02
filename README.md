@@ -18,7 +18,8 @@
  	<!-- <a href="https://www.twitch.tv/USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <!-- <a href="https://discord.gg/CHANNEL" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:ashfaquealam1508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=EF6951" target="_blank"></a> &ensp;
-  <a href="https://www.linkedin.com/in/alamashfaque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alamashfaque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &ensp;
+  <a href="https://ashfaque.co.in/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-9933CC?logo=folder&logoColor=white&style=for-the-badge" target="_blank"></a> &ensp;
 </div>
 
 
