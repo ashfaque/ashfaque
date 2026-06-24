@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ashfaque</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">I design and develop web applications.</h3>
 
 
 <br>
